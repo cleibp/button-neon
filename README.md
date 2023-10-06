@@ -25,7 +25,7 @@ Exemplificação de um botão neon em css
 ```sh
 .
 ├── README.md
-└── index.html
+├── index.html
 └── style.css
 ```
 
